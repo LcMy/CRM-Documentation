@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Readme
 show: false
 ---
 # SAP-CRM-Functional-Documentation
